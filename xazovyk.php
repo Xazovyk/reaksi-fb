@@ -1,6 +1,6 @@
 <?php
 
-require_once('ded/fb.php');
+require_once('fb.php');
 
 //////////////////////////////////////////////[edit di sini]///////////////////////////////////////////
 $user		= 'email'; // facebook username / email
