@@ -1,6 +1,7 @@
 # reaksi-fb
-
+<br>
 Tutor 
+<br>
 install termux di Playstore
 $ pkg update && pkg upgrade
 $ pkg install git
