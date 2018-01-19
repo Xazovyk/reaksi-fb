@@ -7,7 +7,7 @@ install termux di #Playstore buka termux Update
 <br>
 $ pkg update && pkg upgrade
 <br>
-$ pkg install git
+$ pkg install php
 <br>
 
 <br>
